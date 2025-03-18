@@ -1,0 +1,21 @@
+{
+  "name": "notificationservice",
+  "version": "1.0.0",
+  "description": "The Notification Service manages all communications and alerts for the Commune Drop platform. It sends real-time notifications to users and carriers about order status changes, account updates, and other important events through multiple channels including push notifications, SMS, and email.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/CSCI-5709-Adv-Web/NotificationService.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/CSCI-5709-Adv-Web/NotificationService/issues"
+  },
+  "homepage": "https://github.com/CSCI-5709-Adv-Web/NotificationService#readme"
+}
